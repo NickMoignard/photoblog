@@ -6,7 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 #bootstrap
-gem 'bootstrap'
+gem "bootstrap-sass", "~> 3.3.5"
 #create web forms easily
 gem "simple_form"
 #Image handling gem
